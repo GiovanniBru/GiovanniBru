@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###💡 About Me: 
+### 💡 About Me: 
 - 🎓   I'm a Computer Engineering Undergraduate Student at the Federal University of Paraíba
 - 👨🏾‍💻   I currently work as an Mainframe Developer at Capgemini
 - 💻   I already worked as a python developer to develop a credit classifier model using Machine Learning
